@@ -10,6 +10,7 @@
 This project is a **client-side implementation of an Instagram-like Stories feature**.
 
 Users can upload images as stories, view them in a fullscreen viewer, and each story automatically disappears after **24 hours** — all without using any backend.
+https://roadmap.sh/projects/stories-feature
 
 ---
 
